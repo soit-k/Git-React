@@ -1,1 +1,1 @@
-# Here is my React demo
+# Trying VS Code for the first time
